@@ -1,0 +1,7 @@
+name : SAOjoin
+version : '1.0'
+api :
+- 1.13.0
+- 2.0.0
+author : ELF
+main : SAOjoin\SAOjoin
